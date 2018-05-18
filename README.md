@@ -1,0 +1,1 @@
+Dockerfile for building the Windows docker health check images.
